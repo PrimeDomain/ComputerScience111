@@ -1,0 +1,44 @@
+Grant Skinner
+Lab3
+Thu Feb 05 15:40:25 EST 2015
+
+Please enter your name: Grant
+Grant, welcome to the Tip Calculator!
+Please enter the amount of your bill: 50
+Please enter the percentage that you want to tip: 15
+Your original bill was $50.0Your tip amount is $7.5
+Your total bill is $57.5
+How many people will be splitting the bill? 2
+Each person should pay $28.75
+Have a nice day! Thank you for using our service.
+
+Grant Skinner
+Lab3
+Thu Feb 05 15:50:06 EST 2015
+
+Please enter your name: Carl
+Carl, welcome to the Tip Calculator!
+Please enter the amount of your bill: 75
+Please enter the percentage that you want to tip: 20
+Your original bill was $75.0
+Your tip amount is $15.00
+Your total bill is $90.00
+How many people will be splitting the bill? 4
+Each person should pay $22.50
+Have a nice day! Thank you for using our service.
+
+Grant Skinner
+Lab3
+Thu Feb 05 15:50:40 EST 2015
+
+Please enter your name: Jerry
+Jerry, welcome to the Tip Calculator!
+Please enter the amount of your bill: 200
+Please enter the percentage that you want to tip: 30
+Your original bill was $200.0
+Your tip amount is $60.00
+Your total bill is $260.00
+How many people will be splitting the bill? 10
+Each person should pay $26.00
+Have a nice day! Thank you for using our service.
+
